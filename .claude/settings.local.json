@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(c:ProjectsSandbox.my-envScriptspip install Pillow)",
+      "Bash(\"C:\\\\Projects\\\\Sandbox\\\\.my-env\\\\Scripts\\\\pip.exe\" install Pillow)",
+      "Bash(python -m pip install:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(c:/Projects/Sandbox/.my-env/Scripts/python.exe:*)"
+    ]
+  }
+}
